@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="700px" height="540px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient cx="339.79166666666606" cy="282.93413173652726" r="583.0533500974212" gradientTransform="matrix(0.9861887498684618 0.16562532908006683 -0.1504817990978445 0.8960190941478455 47.269384870844725 -26.85835929587405 )" gradientUnits="userSpaceOnUse" id="RadialGradient20">
+      <stop id="Stop21" stop-color="#aaaaaa" offset="0" />
+      <stop id="Stop22" stop-color="#ffffff" offset="1" />
+    </radialGradient>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip23">
+      <path d="M 0 495  L 0 45  C 0 19.799999999999997  19.799999999999994 0  44.99999999999999 0  L 655 0  C 680.2 0  700 19.799999999999997  700 45  L 700 495  C 700 520.2  680.2 540  655 540  L 44.99999999999999 540  C 19.799999999999994 540  0 520.2  0 495  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -45 -130 )">
+    <path d="M 0 495  L 0 45  C 0 19.799999999999997  19.799999999999994 0  44.99999999999999 0  L 655 0  C 680.2 0  700 19.799999999999997  700 45  L 700 495  C 700 520.2  680.2 540  655 540  L 44.99999999999999 540  C 19.799999999999994 540  0 520.2  0 495  Z " fill-rule="nonzero" fill="url(#RadialGradient20)" stroke="none" transform="matrix(1 0 0 1 45 130 )" class="fill" />
+    <path d="M 0 495  L 0 45  C 0 19.799999999999997  19.799999999999994 0  44.99999999999999 0  L 655 0  C 680.2 0  700 19.799999999999997  700 45  L 700 495  C 700 520.2  680.2 540  655 540  L 44.99999999999999 540  C 19.799999999999994 540  0 520.2  0 495  Z " stroke-width="8" stroke-dasharray="0" stroke="rgba(215, 215, 215, 1)" fill="none" transform="matrix(1 0 0 1 45 130 )" class="stroke" mask="url(#Clip23)" />
+  </g>
+</svg>
